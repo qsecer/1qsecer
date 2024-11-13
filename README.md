@@ -1,1 +1,1 @@
-https://github.com/qsecer/1qsecer
+https://qsecer.github.io/1qsecer/
